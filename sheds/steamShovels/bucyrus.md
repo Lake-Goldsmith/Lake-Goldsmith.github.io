@@ -142,4 +142,5 @@ TODO
 5. Remove the top bung
 6. Once the boiler is empty, remove the four bottom bungs
 
-[1]: <http://vhd.heritage.vic.gov.au/search/nattrust_result_detail/68146> (Heritage Victoria, accessed 28/9/2024)
+[1]: <http://vhd.heritage.vic.gov.au/search/nattrust_result_detail/68146>
+1: Heritage Victoria, <http://vhd.heritage.vic.gov.au/search/nattrust_result_detail/68146>

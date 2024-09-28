@@ -1,8 +1,8 @@
 # Ruston
 
-This model 20 SNC (steam navy srane) was manufactured in 1923 by Ruston & Hornsby in Lincoln, England.  
+This model 20 SNC (steam navy srane) was manufactured in 1923 by Ruston & Hornsby in Lincoln, England.<sup>[1]</sup>  
 The No.4 was built on an order for a company in India which
-fell through, leaving them available for immediate purchase by Australian Portland Cement. It worked there until the 1950s when it was used to build it's replacments, then sat unused until it was donated to Lake Goldsmith in the early 1980s<sup>[1]</sup>
+fell through, leaving them available for immediate purchase by Australian Portland Cement. It worked there until the 1950s when it was used to build it's replacments, then sat unused until it was donated to Lake Goldsmith in the early 1980s<sup>[2]</sup>
 
 ## Controls
 
@@ -72,4 +72,7 @@ Located to the right of the boiler
 Similar to an engine, the steam injector uses steam directly to draw water into the boiler. See [Steam Ejector Working](https://chemicalengineeringworld.com/steam-ejector-working-types-parts/) by Chemical Engineering World  
 Unlike most, the Ruston's injector uses a single valve to control the water and steam.
 
-[1]: https://vk3atl.org/presentations/The%20steam%20shovels%20of%20the%20Geelong%20Cement%20works.pdf (The steam shovels of the Geelong Cement works, Mark Dye)
+[1]: https://dsmdonaldson.tripod.com/id59.htm
+1: Steam Shovel Register, Dan Donaldson, <https://dsmdonaldson.tripod.com/id59.htm>
+[2]: <https://vk3atl.org/presentations/The%20steam%20shovels%20of%20the%20Geelong%20Cement%20works.pdf>
+2: The steam shovels of the Geelong Cement works, Mark Dye, <https://vk3atl.org/presentations/The%20steam%20shovels%20of%20the%20Geelong%20Cement%20works.pdf>
