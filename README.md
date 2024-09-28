@@ -2,11 +2,17 @@
 
 The Lake Goldsmith Steam Rally is a steam preservation site near Baufort, in Victoria Australia.
 
-## [Sheds](sheds)
+## Sheds
 
-## [Steam Shovels](sheds/steamShovels)
+The Lake Goldsmith Rally Site is divided into sheds, each shed is then filled with boilers, engines, cars, pretty much if it's old, it's in a shed
 
-### [Bucyrus](sheds/steamShovels/bucyrus.md)
+## Steam Shovels
+
+Lake Goldsmith has two steam shovels: a 1923 20 SNC Ruston brand, and a 1903 rail-mounted steam shovel made by Bucyrus.
+
+### [Bucyrus](sheds/steamShovels/bucyrus)
+
+### [Ruston](sheds/steamShovels/ruston)
 
 ## Contributing
 
