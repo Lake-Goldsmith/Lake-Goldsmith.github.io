@@ -1,4 +1,4 @@
-# [Lake Goldsmith Steam Rally Documentation](https://github.com/non-bin/Lake-Goldsmith)
+# [Lake Goldsmith Steam Rally Documentation](https://lake-goldsmith.github.io/)
 
 The Lake Goldsmith Steam Rally is a steam preservation site near Baufort, in Victoria Australia.
 
